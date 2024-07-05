@@ -1,0 +1,13 @@
+h1{
+    color:red ;
+    text-shadow:2px 2px 2px rgba(255, 0, 221, 0) ;
+}
+body{
+    color: antiquewhite;
+    text-shadow:3px 3px 3px whitesmoke);
+    font-size: xx-large;
+    background: url(https://i.pinimg.com/originals/8c/9f/4e/8c9f4e87adcabaf775b5ff5d4a626375.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
